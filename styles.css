@@ -97,6 +97,9 @@ body {
   #title {
     text-align: center;
   }
+  .p{
+    font-family: sans-serif;
+  }
 
   .title-image {
     position: static;
